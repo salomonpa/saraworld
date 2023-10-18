@@ -1,0 +1,13 @@
+IDENTIFIANTS:
+
+-Admin:
+.Username: Flo
+.Password: monsiteweb@
+
+-Editeur1:
+.Username: editeur1
+.Password: editeur1
+
+-Editeur2:
+.Username: editeur2
+.Password: editeur2
